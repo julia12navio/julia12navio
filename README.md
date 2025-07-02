@@ -2,8 +2,6 @@
 
 **Software Developer**
 
----
-
 ## 🚀 Programming Languages, Frameworks and Technologies
 
 <p align="center">
@@ -17,9 +15,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia12navio&theme=blue-green)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julia12navio&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ## 📈 My Contributions
 
