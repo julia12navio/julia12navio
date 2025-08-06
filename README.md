@@ -23,6 +23,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julia12navio&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julia12navio&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800&token=TU_TOKEN_AQUI" alt="Top Langs" />
 </p>
 
